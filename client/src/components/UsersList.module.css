@@ -1,0 +1,21 @@
+.title {
+  text-align: center;
+  background: #741188;
+  height: 3rem;
+  font-size: 1.5rem;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.users button {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.scored {
+  background-color: #28a745;
+  color: white;
+}
